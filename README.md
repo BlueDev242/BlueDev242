@@ -1,13 +1,14 @@
-<h1>Hi there, I'm Abolfazl 👋 welcome to my Github!</h1>
-</br>
-</br>
-</br>
+<div>
+  <h1>Hi there, I'm Abolfazl 👋 welcome to my Github!</h1>
+  <p>Hello, my name is Abolfazl and I have been working in the field of front-and web for two years.</p>
+</div>
 <div>
   <h2>My abilities:</h2>
   <img src='https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg'  style='width:62px' />
   <img src='https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg'  style='width:62px' />
   <img src='https://github.com/tandpfun/skill-icons/blob/main/icons/Sass.svg'  style='width:62px' />
-  <img src='https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg'  style='width:65px' />
+  <img src='https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg'  style='width:62px' />
+  <img src='https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg'  style='width:62px' />
   <img src='https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg'  style='width:62px' />
   <img src='https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg'  style='width:62px' />
   <img src='https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg'  style='width:62px' />
