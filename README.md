@@ -4,19 +4,40 @@
 </div>
 <div>
   <h2>My abilities:</h2>
-  <img src='https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg'  style='width:62px' />
-  <img src='https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg'  style='width:62px' />
-  <img src='https://github.com/tandpfun/skill-icons/blob/main/icons/Sass.svg'  style='width:62px' />
-  <img src='https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg'  style='width:62px' />
-  <img src='https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg'  style='width:62px' />
-  <img src='https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg'  style='width:62px' />
-  <img src='https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg'  style='width:62px' />
-  <img src='https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg'  style='width:62px' />
-  <img src='https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg'  style='width:62px' />
-  <img src='https://github.com/tandpfun/skill-icons/blob/main/icons/Photoshop.svg'  style='width:62px' />
-  <img src='https://github.com/tandpfun/skill-icons/blob/main/icons/Illustrator.svg'  style='width:62px' />
+  <a href="https://github.com/BlueDev242">
+    <img src='https://github.com/tandpfun/skill-icons/blob/main/icons/HTML.svg'  style='width:62px' />
+  </a>
+  <a href="https://github.com/BlueDev242">
+    <img src='https://github.com/tandpfun/skill-icons/blob/main/icons/CSS.svg'  style='width:62px' />
+  </a>
+  <a href="https://github.com/BlueDev242">
+    <img src='https://github.com/tandpfun/skill-icons/blob/main/icons/Sass.svg'  style='width:62px' />
+  </a>
+  <a href="https://github.com/BlueDev242">
+    <img src='https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg'  style='width:62px' />
+  </a>
+  <a href="https://github.com/BlueDev242">
+    <img src='https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg'  style='width:62px' />
+  </a>
+  <a href="https://github.com/BlueDev242">
+    <img src='https://github.com/tandpfun/skill-icons/blob/main/icons/React-Dark.svg'  style='width:62px' />
+  </a>
+  <a href="https://github.com/BlueDev242">
+    <img src='https://github.com/tandpfun/skill-icons/blob/main/icons/Figma-Dark.svg'  style='width:62px' />
+  </a>
+  <a href="https://github.com/BlueDev242">
+    <img src='https://github.com/tandpfun/skill-icons/blob/main/icons/Git.svg'  style='width:62px' />
+  </a>
+  <a href="https://github.com/BlueDev242">
+    <img src='https://github.com/tandpfun/skill-icons/blob/main/icons/Github-Dark.svg'  style='width:62px' />
+  </a>
+  <a href="https://github.com/BlueDev242">
+    <img src='https://github.com/tandpfun/skill-icons/blob/main/icons/Photoshop.svg'  style='width:62px' />
+  </a>
+  <a href="https://github.com/BlueDev242">
+    <img src='https://github.com/tandpfun/skill-icons/blob/main/icons/Illustrator.svg'  style='width:62px' />
+  </a>
 </div>
-
 <div>
   <h2>social media</h2>
   <a href='https://www.instagram.com/ll.askari.242.ll/'>
