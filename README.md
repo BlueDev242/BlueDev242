@@ -17,6 +17,9 @@
     <img src='https://github.com/tandpfun/skill-icons/blob/main/icons/Bootstrap.svg'  style='width:62px' />
   </a>
   <a href="https://github.com/BlueDev242">
+    <img src='https://github.com/tandpfun/skill-icons/blob/main/icons/TailwindCSS-Dark.svg'  style='width:62px' />
+  </a>
+  <a href="https://github.com/BlueDev242">
     <img src='https://github.com/tandpfun/skill-icons/blob/main/icons/JavaScript.svg'  style='width:62px' />
   </a>
   <a href="https://github.com/BlueDev242">
